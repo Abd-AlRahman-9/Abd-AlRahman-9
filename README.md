@@ -48,10 +48,8 @@ These projects represent my most significant or recent work, demonstrating my ab
 I maintain a strong focus on technical fundamentals, which is reflected in my dedication to algorithms and problem-solving.
 
 * **LeetCode Profile:** **[https://leetcode.com/u/eldesoqe/](https://leetcode.com/u/eldesoqe/)**
-    * **Total Problems Solved:** **[Your Total Count - Fill this in manually]**
-    * **Focus Areas:** Dynamic Programming, Graph Theory, and String Manipulation (Rabin-Karp, KMP).
-* **DSA Repository:** I keep a dedicated repository for optimized solutions to common interview problems.
-    * [Link to your DSA/Algorithms Repo - Fill this in manually]
+* **Total Problems Solved:** **[Your Total Count - Fill this in manually]**
+* **Focus Areas:** Dynamic Programming, Graph Theory, and String Manipulation (Rabin-Karp, KMP).
 
 ---
 
