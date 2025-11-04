@@ -1,7 +1,7 @@
 # 🧑‍💻 Abd Al-Rahman Al-Desoqe | Software Engineer & Problem Solver
 
 <p align="center">
-  <img src="./images/profile_photo.jpg" width="150" height="150" style="border-radius: 50%;" alt="Abd Al-Rahman Al-Desoqe Profile Picture" />
+  <img src="./images/profile.png" width="150" height="150" style="border-radius: 50%;" alt="Abd Al-Rahman Al-Desoqe Profile Picture" />
 </p>
 
 <p align="center">
