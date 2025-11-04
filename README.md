@@ -1,6 +1,10 @@
 # 🧑‍💻 Abd Al-Rahman Al-Desoqe | Software Engineer & Problem Solver
 
 <p align="center">
+  <img src="https://i.ibb.co/C05bK1Q/photo-2024-03-24-11-20-43.jpg" width="150" height="150" style="border-radius: 50%;" alt="Abd Al-Rahman Al-Desoqe Profile Picture" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;C%23+and+Angular+Specialist;Power+Platform+%26+Dynamics+365" alt="Animated Typing: Full-Stack Developer; C# and Angular Specialist; Power Platform & Dynamics 365" />
 </p>
 
