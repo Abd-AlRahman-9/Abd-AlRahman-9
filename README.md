@@ -1,5 +1,9 @@
 # 🧑‍💻 Abd Al-Rahman Al-Desoqe | Software Engineer & Problem Solver
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;C%23+and+Angular+Specialist;Power+Platform+%26+Dynamics+365" alt="Animated Typing: Full-Stack Developer; C# and Angular Specialist; Power Platform & Dynamics 365" />
+</p>
+
 ### 👋 Welcome to my coding space!
 
 I am a highly motivated Software Engineer focused on building robust, scalable solutions and continuously sharpening my skills in fundamental computer science concepts. This repository serves as my living portfolio, showcasing my expertise and dedication to data structures and algorithms (DSA).
